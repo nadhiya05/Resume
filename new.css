@@ -1,0 +1,16 @@
+.allah{
+    color:darkmagenta;
+    background-color: darkturquoise;
+    font-size: 46px;
+    font-weight: 100px;
+}
+div{
+    background-color: forestgreen;
+    width:300px;
+    height:200px;
+    margin-left: 100px;
+}
+.new{
+    color: indigo;
+    padding-left: 100px;
+}
